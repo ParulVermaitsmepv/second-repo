@@ -1,9 +1,4 @@
-a# second-repo
-this is my repo for cloning.</br>
-lets try to clone it. </br>
-but it is more attractive .</br>
-lets do some changes in it.
-ok lets talk about my life. </br>
-I am tired off all those shits.</br>
-i am tired of this shit.</br>
-Github is a very important thing which is used more attraction with my love.
+# My first Repository
+This is my first repostory am want to do somthing more attractive **This is my first repostory** .
+## How to use
+It is not easy to use but once you start use it, it seems like a game.
